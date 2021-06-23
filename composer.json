@@ -1,0 +1,9 @@
+{
+    "name": "hgati/preorder",
+    "type": "magento-module",
+    "description": "Pre Order for Magento 1.9.x",
+
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
