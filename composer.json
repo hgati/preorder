@@ -1,9 +1,14 @@
 {
     "name": "hgati/preorder",
     "type": "magento-module",
-    "description": "Pre Order for Magento 1.9.x",
+    "description": "Pre Order for Magento 1.9.4.5",
+    "keywords": ["magento preorder"],
+    "homepage": "https://github.com/hgati/preorder",
+    "license": "MIT",
+    "authors": [{ "name": "Dennis Lee", "email": "cobays@gmail.com", "homepage": "https://github.com/hgati", "role": "Magento 1.x Developer" }],
 
     "require": {
+        "php": ">=7.0.0",
         "magento-hackathon/magento-composer-installer": "*"
     }
 }
